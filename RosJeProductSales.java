@@ -1,16 +1,16 @@
 /*
- * Program Name:   RosJeProductSales
- * Author:         Jerrick Rose
+ * Program Name:   ProductSales
+ * Author:         xxxxxxx
  * Date Written:   8/31/22
- * The class name: CIT 149 Java 1
- * Description:    This program accepts the price and quantity of an 
+ * The class name: xxx
+ * Description:    This program accepts the price and quantity of a 
  *                 item being purchased, then outputs the price,
  *                 Quantity, sub total, sales tax, and the total sale.
  */
 
 import java.util.Scanner;
 
-public class RosJeProductSales {
+public class ProductSales {
 	
 		public static void main(String[] args) {
 			
